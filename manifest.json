@@ -1,0 +1,13 @@
+{
+  "name": "Erste XML Nalog",
+  "description": "Popunjava platne naloge iz ROL XML fajla.",
+  "version": "0.1",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "ikonica.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
